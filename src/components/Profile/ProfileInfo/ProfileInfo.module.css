@@ -1,0 +1,19 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+}
+
+.contact {
+    padding-left: 10px;
+}
+
+.errors {
+    color: darkred;
+}
+
+.file {
+    margin: 10px 0 10px 0;
+}
